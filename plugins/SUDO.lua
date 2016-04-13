@@ -76,4 +76,6 @@ return {
     patterns = {"^آپ تایم", "^$uptime","^Get dialogs$"}, 
     run = run 
 }
---enjoy
+--telebeta v1
+--channel ::telebeta
+--کپی برداری از این سورس کاملا حرام است
