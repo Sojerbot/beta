@@ -1702,3 +1702,6 @@ return {
 }
 end
 --telebeta v1
+--channel ::telebeta
+--کپی برداری از این سورس کاملا حرام است
+
