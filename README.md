@@ -1,9 +1,6 @@
-#Sbss v3
-##An Advanced Adminastortion bot based on seed
-* **Fa & ENG**
-* **Don't Forget stars!**
-* **Sudo & Dev : [Amir Sbss](telegram/me/Amir_H)**
-* **Channel : [Sbss Team](telegram.me/Sbss_Team)**
-* **#See Your Self**
-* **#Be Your Self**
-* **#Do it Your Self**
+#ＴＥＬＥＢＥＴＡ ™ v1
+
+* **فارسی و انگلیسی**
+* **Sudo 1: [•○مستـ↯ـر ♡ ممـ↯ـد○•](telegram.me/team_beta)**
+* **sudo 2: [mohammad](telegram.me/Sazande_Sojer)
+* **Channel : [ ＴＥＬＥＢＥＴＡ ™ ]( http://telegram.me/TELEBETA )**
